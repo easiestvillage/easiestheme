@@ -1,1 +1,1 @@
-# easiestheme
+# easiestheme - lite theme for discord
